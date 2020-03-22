@@ -1,5 +1,5 @@
 # SESTAR++
-SESTAR++ for selenopeptide searching. The main program and a simple guide of usage and data interpreting are available.
+SESTAR++ for selenopeptide searching. The main program with user-friendly GUI and a simple guide of usage and data interpreting are available.
 
 # Environment
 Windows and .Net Framwork 4.7.2 are required.
