@@ -1,6 +1,8 @@
 # SESTAR++
-SESTAR++ for selenopeptide searching
+SESTAR++ for selenopeptide searching. The main program and a simple guide of usage and data interpreting are available.
 
-This is the offline version of SESTAR++. Windows and .Net Framwork 4.7.2 are required.
+# Environment
+Windows and .Net Framwork 4.7.2 are required.
 
-Source code is not released on GitHub. Please contact jgg@pku.edu.cn for source code if necessary.
+# Contact
+Source code is not released on GitHub. Please contact jgg@pku.edu.cn for help.
