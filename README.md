@@ -2,7 +2,7 @@
 SESTAR++ for selenopeptide searching. The main program with user-friendly GUI and a simple guide of usage and data interpreting are available.
 
 # Environment
-Windows and .Net Framwork 4.7.2 are required. Visual C++ may also need to be updated to the latest version.
+Windows and .Net Framwork 4.7.2 are required. Visual C++ may also need to be updated to the latest version (x86, 32-bit, not x64, 64-bit).
 
 # Contact
 Source code is not released on GitHub. Please contact jgg@pku.edu.cn for help.
